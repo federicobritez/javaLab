@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=cantPisos
+comment0.target=Edificio(int)
+comment1.params=piso
+comment1.target=void\ setPisoActual(int)
+comment2.params=piso
+comment2.target=void\ ir(int)
+comment3.params=
+comment3.target=void\ subir()
+comment4.params=
+comment4.target=int\ getPisoActual()
+comment5.params=
+comment5.target=int\ getCantidadPisos()
+numComments=6
