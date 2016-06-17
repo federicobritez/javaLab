@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=r\ i
+comment0.target=Complejo(Numero,\ Numero)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Complejo\n
+comment1.params=
+comment1.target=Numero\ getReal()
+comment2.params=
+comment2.target=Numero\ getImaginario()
+comment3.params=c
+comment3.target=Complejo\ sumar(Complejo)
+comment4.params=c
+comment4.target=Complejo\ restar(Complejo)
+comment5.params=c
+comment5.target=Complejo\ multiplicar(Complejo)
+comment6.params=obj
+comment6.target=boolean\ equals(java.lang.Object)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

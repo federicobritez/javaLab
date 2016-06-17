@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=n\ d
+comment0.target=Fraccion(Numero,\ Numero)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Fraccion\n
+comment1.params=
+comment1.target=Numero\ getNumerador()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=Numero\ getDenominador()
+comment3.params=f
+comment3.target=Fraccion\ sumar(Fraccion)
+comment4.params=f
+comment4.target=Fraccion\ restar(Fraccion)
+comment5.params=f
+comment5.target=Fraccion\ multiplicar(Fraccion)
+comment6.params=f
+comment6.target=Fraccion\ dividir(Fraccion)
+comment7.params=e
+comment7.target=Fraccion\ elevar(Numero)
+comment8.params=
+comment8.target=Fraccion\ invertido()
+comment9.params=
+comment9.target=boolean\ esNegativo()
+numComments=11
